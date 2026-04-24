@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Ajinkya
+
+> Building things that think.
+
+AI • Systems • Backend  
+
+Currently shipping ideas into reality.
 
 <!--
 **ajinkyaXhub/ajinkyaXhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
