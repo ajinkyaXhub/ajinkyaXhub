@@ -2,7 +2,7 @@
 
 > Building things that think.
 
-AI • Systems • Backend  
+AI/ML • Retrieval Systems • Full-Stack  
 
 Currently shipping ideas into reality.
 
