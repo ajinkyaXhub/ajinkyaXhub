@@ -17,7 +17,6 @@ My interests include:
 - 💻 Software Engineering
 - 🌐 Full-Stack Development
 - 📊 Data Structures & Algorithms
-- ☁️ Cloud & MLOps
 
 I enjoy transforming ideas into impactful products by combining AI with modern software development.
 
